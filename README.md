@@ -1,4 +1,4 @@
-# terraform-aws-networks
+# terraform-aws-network
 
 AWS VPC 네트워크 인프라를 구성하는 Terraform 모듈입니다.
 
